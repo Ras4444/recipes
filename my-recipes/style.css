@@ -1,0 +1,32 @@
+html {
+    background-color: violet;
+    font-size: 20px;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+h1 {
+    text-align: center;
+}
+.couple {
+    display: flex;
+    justify-content: space-evenly;
+}
+.image {
+    height: 400px;
+    width: auto;
+}
+.recognition {
+    font-size: 14px;
+}
+.first {
+    background-color: yellow;
+    padding: 20px;
+}
+.second {
+    background-color: aqua;
+    padding: 20px;
+}
